@@ -1,0 +1,18 @@
+﻿SDLC and Testing Methodologies
+Types of Testing
+Test Plan
+Creating Testcases
+Exectuing Testcases
+Domain Knowledge of Product / Application / Project which you are going to test
+Нагрузочное тестирование
+Technical knowledge of Technology which Product / Application / Project using
+Bug Tracking Tools
+Complete bug life cycle management
+Knowledge of Automation Tool if your Product / Application / Project requires automation testing
+Selenium
+QTP
+Testcomplete
+Software Quality Assurance (QA)
+Using tools to track software bugs
+Создание Automated Tests
+Анализ результатов тестов

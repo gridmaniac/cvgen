@@ -1,0 +1,6 @@
+﻿Ionic
+Cordova
+Phonegap
+AngularJS
+SASS
+Авто-сборка через Cloud

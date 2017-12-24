@@ -1,0 +1,70 @@
+* {
+    font-family: monospace;
+    font-size: 1.1em;
+}
+
+.grid {
+    display: flex;
+    max-width: 900px;
+}
+
+.col {
+    padding: 20px;
+}
+
+.col:nth-child(1) {
+    border-right: 1px dashed #000;
+}
+
+.col:nth-child(2) {
+    display: none;
+}
+
+input, label {
+    display: block;
+}
+
+select {
+    width: 100%;
+}
+
+label {
+    margin-top: 20px;
+}
+
+h1 {
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+img {
+    max-height: 200px;
+}
+
+table {
+    font-size: 0.7em;
+}
+
+td {
+    padding: 10px;
+}
+
+td:nth-child(1) {
+    padding-left: 0;
+}
+
+ul {
+    padding: 0;
+    padding-left: 20px;
+}
+
+[name="specs"] {
+    height: 300px;
+    font-size: 0.6em;
+}

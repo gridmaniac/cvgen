@@ -1,0 +1,8 @@
+﻿Rack
+Sinatra
+Grape
+ActiveRecord
+PostgreSQL
+RubyMine
+ERB/Haml
+Unit testing с Rspec

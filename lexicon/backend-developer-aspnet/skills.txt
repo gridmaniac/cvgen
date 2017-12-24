@@ -1,0 +1,23 @@
+﻿.NET
+ASP.NET
+.NET Core
+Xamarin
+C# and VB.NET
+Customized .NET tools
+MVC6
+CSHTML
+Razor
+Entity Framework
+MSSQL
+DB Migrations
+ADO.NET
+Class inheritance
+LINQ
+SQL
+Session state
+JS
+AJAX
+CSS
+IIS
+WCF
+MVVM

@@ -1,0 +1,33 @@
+﻿Big-O analysis
+Trees
+Graphs
+Hash tables
+Caching
+Queues
+Stacks
+Data collections
+Data processing
+Сleaning and transformation
+Features engineering
+Programming and writing maintenable
+Production ready data science scripts/applications
+Statistical analysis
+Machine learning
+Data visualisation
+Reporting and good communication
+CS
+Data extraction to visualisation
+Analysis skills
+Math skills
+Infrastructure skills
+Models
+Data tables
+Charts
+Reports
+Predictions and agents
+Ship data in working applications
+Data Ingestion
+Integration of multiple sources
+The underlying Infrastructure
+Setting up the platform to run queries on the data and provide analytics / insights
+Neural networks

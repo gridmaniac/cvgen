@@ -1,0 +1,11 @@
+﻿Kubernetes
+Docker
+Apache Mesos
+HashiCorp stack
+Terraform
+Vagrant
+Packer
+Vault
+Consul
+Nomad
+Jenkins

@@ -1,0 +1,17 @@
+﻿PostgreSQL
+MVC
+Heroku
+Capistrano
+Docker
+CI
+MongoDB
+REST API
+SSL Certificates
+WebSockets
+Redis
+memcached
+Python
+Golang
+Yarn
+Нейронные сети
+Машинное обучение

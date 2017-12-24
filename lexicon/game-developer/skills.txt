@@ -1,0 +1,18 @@
+﻿Игровые движки
+Unity3D
+Common Patterns
+Unreal Engine 4
+Знания по высшей математике
+DarkBasic
+Blitz3D
+GLSL Шейдеры
+Программирование AI
+Искусственный интеллект
+XCode IDE
+IAPs
+Photoshop
+Quality Assurance Testing
+Разработка сетевой составляющей игры
+Работа с аудио
+Системы частиц
+Vuforia

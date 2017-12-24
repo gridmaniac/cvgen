@@ -1,0 +1,11 @@
+﻿A deep understanding of ledgers Сonsensus methods, blockchains, and cryptocurrencies in general
+Strong expertise in threat analytics, anomaly detection, and performance management.
+Strong understanding of algorithms, data structures, cryptography and data security, and decentralized technologies.
+Strong coding skills with at least one of the following languages: Go, C, C++ , JAVA, Python.
+A good understanding of distributed storage, like RDBMS or NoSQL, for instance.
+Exposure / eagerness to learn atleast one of the blockchain platforms like Ethereum, Stellar, Ripple, Hyperledger etc.
+Good understanding of Bitcoin or other crypto-currencies
+Experience working with distributed databases. Understanding of various distributed consensus methodologies
+Understanding of cryptography, including asymmetric (pub/priv key), symmetric, hash functions, encryption/signatures.
+Hands-on experience in using any of the following (or similar) languages: Java, Golang, Rust, Scala, Haskell, Erlang, Python, C, C++, C#
+Hands-on experience in working on Open source technologies and learn new languages like Solidity

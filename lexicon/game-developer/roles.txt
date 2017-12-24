@@ -1,0 +1,10 @@
+﻿Game Developer
+Разработчик видеоигр
+Level Designer
+Дизайнер уровней
+Environment дизайнер
+Моделлер
+Аниматор
+Разработчик AI
+Разработчик шейдеров
+Shader Developer

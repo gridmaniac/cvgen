@@ -1,0 +1,38 @@
+﻿Git
+SVN
+Markdown
+Unit Testing
+Scaling databases
+ACID
+ORM
+Unix администрирование
+ООП
+Рефакторинг
+Code Review
+Логическое мышление
+Ability to Code Automated Tests
+Ability to Work Independently and In Team Based Environment
+Analyze Test Results
+Break Project Into Attainable Progress Goals
+Capable of Using Source Code Repositories
+Communicate With Technical and Non-Technical Resources
+Create Test Plans
+Develop Standards and Procedures to Determine Product Quality and Release Readiness
+Discover Bugs Within Software
+Document Test Cases
+Drive Innovation and Streamline Overall Testing Process
+Experience With Agile Development Process 
+Experience With Web Based Testing Applications
+Identify Areas of Improvement
+Identify, Isolate and Track Bugs Throughout Testing
+Identify Potential Problems Users May Encounter
+Interpret Technical and Business Objectives and Challenges
+Perform and Document Risk Analysis
+Perform Manual and Automated Testing 
+Record Test Progress and Results
+Research and Analyze Product Features Being Tested
+Research New tools, Technologies, and Testing Processes 
+Review User Interfaces For Consistency and Functionality 
+Solid Understanding of QA Testing Environments
+Thorough Understanding of Software Development Life Cycles
+Work Closely With Development and Product Teams

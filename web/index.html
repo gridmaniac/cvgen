@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="grid">
+            <div class="col">
+                <h1>CV Gen 0.3.1</h1>
+                <form>
+                    <label>Имя</label>
+                    <input name="name">
+                    <label>Фамилия</label>
+                    <input name="sname">
+                    <label>Рандомное имя</label>
+                    <input type="checkbox" name="autoname" checked>
+                    <label>Название</label>
+                    <input name="role">
+                    <label>Уровень</label>
+                    <select name="level">
+                        <option value="junior">Junior</option>
+                        <option value="middle">Middle</option>
+                        <option value="senior">Senior</option>
+                        <option value="legendary">Legendary</option>
+                    </select>
+                    <label>Специализации</label>
+                    <select name="specs" multiple>
+                        <option value="frontend-developer">Front-End Developer</option>
+                        <option value="backend-developer">Back-End Developer</option>
+                        <option value="backend-developer-aspnet">Back-End Developer ASP.NET</option>
+                        <option value="backend-developer-nodejs">Back-End Developer NodeJS</option>
+                        <option value="backend-developer-ruby">Back-End Developer Ruby</option>
+                        <option value="mobile-developer-ios">Mobile IOS Developer</option>
+                        <option value="mobile-developer-android">Mobile Android Developer</option>
+                        <option value="mobile-developer-hybrid">Mobile Hybrid Developer</option>
+                        <option value="desktop-developer">Desktop Developer</option>
+                        <option value="data-scientist">Data Scientist</option>
+                        <option value="game-developer">Game Developer</option>
+                        <option value="blockchain-expert">Blockchain Expert</option>
+                        <option value="devops-developer">DevOps Developer</option>
+                        <option value="3d-artist">3D Artist</option>
+                        <option value="software-test-engineer">Software Test Engineer</option>
+                    </select>
+                    <br><br>
+                    <input type="submit" value="Генерация">
+                </form>
+            </div>
+            <div class="col">
+                <img id="photo" src="">
+                <h1><span id="name"></span> <span id="sname"></span></h1>
+                <p id="role"></p>
+                <i id="exp">Стаж: 2 года</i>
+                <br><br>
+                <p id="about"></p>
+                <h2>Опыт работы</h2>
+                <table id="work"></table>
+                <h2>Профессиональные навыки</h2>
+                <p id="generalSkills"></p>
+                <h2>Технологический стек</h2>
+                <p id="proSkills"></p>
+            </div>
+        </div>
+    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</html>

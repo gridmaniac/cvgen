@@ -1,0 +1,7 @@
+﻿Xcode
+Objective C
+CocoaPods
+Libraries
+REST API интеграция
+Публикация приложения в AppStore
+Разработка UI экранов

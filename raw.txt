@@ -1,0 +1,76 @@
+Frontend Developer
+PHP, ReactJS, AngularJS, CSS Frameworks, Gulp, Webpack, Grunt, SASS, LESS, Stylus, Compass, Bourbon, Hat, Bootstrap, ZURE, Yui, Handlebars, Haml, Pub, Jade, JQuery, Zepto, Backbone, Ember, Dojo, Bower, NPM, Middleman, DevTools, MVC, Vue.js, Babel, Browserify, TypeScript, JavaScript, ES6, CSS
+
+Backend Developer
+PostgreSQL, MVC, Heroku, Capistrano, Docker, CI, MongoDB, REST API, SSL Certificates, WebSockets, Redis, memcached, Python, Golang, Yarn
+
+Backend NodeJS Developer
+NodeJS, Koa, Express, CouchDB, MySQL, Socket.io, Hapi.js, Mojito, Meteor, Derby, Mean.js, Sails.js, Total.js, Redis, memcached
+
+Backend Ruby On Rails Developer
+Rack, Sinatra, Grape, ActiveRecord, PostgreSQL, RubyMine, ERB/Haml, Unit testing с Rspec
+
+Backend ASP.NET Developer
+.NET, ASP.NET, .NET Core, Xamarin, C# and VB.NET, Customized .NET tools, MVC6, CSHTML, Razor, Entity Framework, MSSQL, DB Migrations, ADO.NET, Class inheritance, LINQ, SQL, Session state, JS, AJAX, CSS, IIS, WCF, MVVM
+
+
+Desktop Developer
+Разработчик десктопных приложений
+Electron, .NET, Win32, C++, C#, MonoDevelop, Cross-Platform Приложения
+
+Mobile IOS Developer
+Разработчик мобильных приложений
+Xcode, Objective C, CocoaPods, Libraries, REST API интеграция, публикация приложения в AppStore, разработка UI экранов,  
+
+Mobile Android Developer
+Разработчик мобильных приложений
+Java, Android Studio, Activities and their lifecycle, Guidelines, User input, A basic understanding of layouts and views, Action Bars, Получение данных с сервера, Работа с различными разрешениями экранов, автоматическое тестирование
+
+Mobile Hybrid Developer
+Разработчик мобильных приложений
+Ionic, Cordova, Phonegap, AngularJS, SASS, Авто-сборка через Cloud
+
+
+Game/Graphics Developer
+Графический разработчик
+Разработчик игр
+Игровые движки, Unity3D, Common Patterns, Unreal Engine 4, Math, DarkBasic, Blitz3D, GLSL Шейдеры, программирование AI, искусственный интеллект, XCode IDE, IAPs, Photoshop, quality assurance tester, разработка сетевой составляющей, работа с аудио, системы частиц, 
+
+3D Artist
+Sculpting - ZBRush R6, Blender, 3Ds MAX, Maya, Vuforia, Создание PBR материалов - Substance Designer 5, Рендер - Marmoset Toolbag, Keyshot, Blender 3d; Текстурирование - Substance Painter 2, Полигональное моделирование и анимация, Photoshop, анимации, rigs
+
+Data Scientist
+Эксперт по данным
+Big-O analysis, Trees, Graphs, Hash tables, Caching, Queues, Stacks, Data collections, Data processing, cleaning, and transformation, Features engineering, Programming and writing maintenable, production ready data science scripts/applications Statistical analysis Machine learning, Data visualisation, Reporting and good communication, CS, data extraction to visualisation, analysis skills, math skills, infrastructure skills, models,  data tables, charts, reports, predictions and agents, but to ship them in working applications Data Ingestion, Integration of multiple sources, the underlying Infrastructure, set up the platform to run queries on the data and provide analytics / insights, нейронные сети
+
+
+DevOps Developer
+Kubernetes, Docker, Apache Mesos, the HashiCorp stack (Terraform, Vagrant, Packer, Vault, Consul, Nomad), Jenkins
+
+
+Тестировщик
+Software Developer Test Engineer
+SDLC and Testing Methodologies (Types of Testing, Test Plan, Creating Testcases, Exectuing Testcases)
+Domain Knowledge of Product / Application / Project which you are going to test
+Нагрузочное тестирование
+Technical knowledge of Technology which Product / Application / Project using.(Including Backend)
+Bug Tracking Tools - Complete bug life cycle management
+Knowledge of Automation Tool if your Product / Application / Project requires automation testing (E.g Selenium, QTP, Testcomplete
+Software Quality Assurance (QA)
+Using tools to track software bugs
+Создание Automated Tests
+Анализ результатов тестов
+
+
+Blockchain Expert
+A deep understanding of ledgers, consensus methods, blockchains, and cryptocurrencies in general.
+Strong expertise in threat analytics, anomaly detection, and performance management.
+Strong understanding of algorithms, data structures, cryptography and data security, and decentralized technologies.
+Strong coding skills with at least one of the following languages: Go, C, C++ , JAVA, Python.
+A good understanding of distributed storage, like RDBMS or NoSQL, for instance.
+Exposure / eagerness to learn atleast one of the blockchain platforms like Ethereum, Stellar, Ripple, Hyperledger etc.
+Good understanding of Bitcoin or other crypto-currencies
+Experience working with distributed databases. Understanding of various distributed consensus methodologies
+Understanding of cryptography, including asymmetric (pub/priv key), symmetric, hash functions, encryption/signatures.
+Hands-on experience in using any of the following (or similar) languages: Java, Golang, Rust, Scala, Haskell, Erlang, Python, C, C++, C#
+Hands-on experience in working on Open source technologies and learn new languages like Solidity

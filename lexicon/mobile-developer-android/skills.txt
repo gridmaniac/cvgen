@@ -1,0 +1,10 @@
+﻿Java
+Android Studio
+Activities and their lifecycle
+Guidelines
+User input
+Понимание layouts and views
+Action Bars
+Получение данных с сервера
+Работа с различными разрешениями экранов
+Автоматическое тестирование
